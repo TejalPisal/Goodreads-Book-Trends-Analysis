@@ -15,7 +15,7 @@ This project explores a dataset of popular and trending books from Goodreads. Th
 - Goodreads dataset from Kaggle
 
 ## Dataset Source:
-Dataset not included due to size. Download it from: [Kaggle – Goodreads Popular and Trending Books Dataset](https://www.kaggle.com/datasets/nikhil1e9/goodreads-books)
+[Kaggle – Goodreads Popular and Trending Books Dataset](https://www.kaggle.com/datasets/nikhil1e9/goodreads-books)
 
 ## Conclusion:
 The project concludes that while newer books are more frequently shelved and rated, overall book quality (as measured by score) has remained stable across decades. Popularity is not strongly linked to score, and statistical analysis confirms subtle but significant trends in book perception over time.
